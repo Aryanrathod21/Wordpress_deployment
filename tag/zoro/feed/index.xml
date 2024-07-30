@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>zoro &#8211; Animeview</title>
+	<atom:link href="https://aryanrathod21.github.io/Wordpress_deployment/tag/zoro/feed/" rel="self" type="application/rss+xml" />
+	<link>https://aryanrathod21.github.io/Wordpress_deployment</link>
+	<description>sharing Anime Blogs</description>
+	<lastBuildDate>Sun, 21 Jul 2024 09:43:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+
+<image>
+	<url>https://aryanrathod21.github.io/Wordpress_deployment/wp-content/uploads/2024/07/cropped-Screenshot-2024-01-02-211043-1-32x32.png</url>
+	<title>zoro &#8211; Animeview</title>
+	<link>https://aryanrathod21.github.io/Wordpress_deployment</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>One Piece</title>
+		<link>https://aryanrathod21.github.io/Wordpress_deployment/one-piece/</link>
+					<comments>https://aryanrathod21.github.io/Wordpress_deployment/one-piece/#comments</comments>
+		
+		<dc:creator><![CDATA[aryan]]></dc:creator>
+		<pubDate>Sun, 21 Jul 2024 09:43:32 +0000</pubDate>
+				<category><![CDATA[Big 3]]></category>
+		<category><![CDATA[chopper]]></category>
+		<category><![CDATA[luffy]]></category>
+		<category><![CDATA[nami]]></category>
+		<category><![CDATA[robin]]></category>
+		<category><![CDATA[sanji]]></category>
+		<category><![CDATA[ussop]]></category>
+		<category><![CDATA[zoro]]></category>
+		<guid isPermaLink="false">https://aryanrathod21.github.io/Wordpress_deployment/?p=127</guid>
+
+					<description><![CDATA[One Piece: An Epic Adventure on the Grand Line One Piece is a legendary anime series created by Eiichiro Oda that follows the thrilling adventures of Monkey D. Luffy and his diverse crew of pirates. Set in a vast world filled with mysterious islands, treacherous seas, and a rich tapestry of lore, the story centers [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<h6 class="wp-block-heading">One Piece: An Epic Adventure on the Grand Line</h6>
+
+
+
+<p><strong>One Piece</strong> is a legendary anime series created by Eiichiro Oda that follows the thrilling adventures of Monkey D. Luffy and his diverse crew of pirates. Set in a vast world filled with mysterious islands, treacherous seas, and a rich tapestry of lore, the story centers around Luffy&#8217;s quest to find the ultimate treasure known as the &#8220;One Piece,&#8221; which will crown him as the Pirate King.</p>
+
+
+
+<p>Luffy, endowed with the ability to stretch like rubber after eating a mysterious Devil Fruit, assembles a loyal and eclectic crew, each member bringing their unique abilities and dreams to the table. From the indomitable swordsman Roronoa Zoro to the cunning navigator Nami, the chivalrous cook Sanji, the inventive sniper Usopp, the shipwright Franky, the archaeologist Nico Robin, the musician Brook, and the doctor Tony Tony Chopper, the Straw Hat Pirates are a force to be reckoned with.</p>
+
+
+
+<p>As they traverse the perilous Grand Line, the crew encounters a myriad of powerful enemies, including fearsome pirates, corrupt government officials, and dangerous creatures. Alongside epic battles, the series delves into the backstories and motivations of its characters, exploring themes of friendship, loyalty, and the relentless pursuit of one&#8217;s dreams. Each arc unveils new challenges and mysteries, keeping viewers on the edge of their seats.</p>
+
+
+
+<p><strong>One Piece</strong> is renowned for its rich storytelling, intricate world-building, and dynamic character development. The anime masterfully blends action, humor, and emotional depth, creating a captivating narrative that resonates deeply with audiences of all ages. Its themes of freedom, adventure, and the unyielding spirit of chasing one&#8217;s dreams make it a timeless tale that continues to inspire and entertain.</p>
+
+
+
+<p>With over a thousand episodes and still ongoing, <strong>One Piece</strong> has cemented its place as a cornerstone of anime culture. Its impact is far-reaching, influencing numerous aspects of popular culture and amassing a devoted global fanbase. Whether you&#8217;re a seasoned anime enthusiast or a newcomer to the genre, embarking on the journey with Luffy and his crew promises an unforgettable adventure filled with excitement, laughter, and heartfelt moments.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://aryanrathod21.github.io/Wordpress_deployment/one-piece/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

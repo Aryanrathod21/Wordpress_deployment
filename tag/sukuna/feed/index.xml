@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>sukuna &#8211; Animeview</title>
+	<atom:link href="https://aryanrathod21.github.io/Wordpress_deployment/tag/sukuna/feed/" rel="self" type="application/rss+xml" />
+	<link>https://aryanrathod21.github.io/Wordpress_deployment</link>
+	<description>sharing Anime Blogs</description>
+	<lastBuildDate>Sun, 21 Jul 2024 09:30:27 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+
+<image>
+	<url>https://aryanrathod21.github.io/Wordpress_deployment/wp-content/uploads/2024/07/cropped-Screenshot-2024-01-02-211043-1-32x32.png</url>
+	<title>sukuna &#8211; Animeview</title>
+	<link>https://aryanrathod21.github.io/Wordpress_deployment</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Jujutsu Kaisen</title>
+		<link>https://aryanrathod21.github.io/Wordpress_deployment/jujutsu-kaisen/</link>
+					<comments>https://aryanrathod21.github.io/Wordpress_deployment/jujutsu-kaisen/#respond</comments>
+		
+		<dc:creator><![CDATA[aryan]]></dc:creator>
+		<pubDate>Fri, 19 Jul 2024 18:32:35 +0000</pubDate>
+				<category><![CDATA[Anime]]></category>
+		<category><![CDATA[gojo]]></category>
+		<category><![CDATA[sukuna]]></category>
+		<category><![CDATA[toji]]></category>
+		<guid isPermaLink="false">https://aryanrathod21.github.io/Wordpress_deployment/?p=89</guid>
+
+					<description><![CDATA[Jujutsu Kaisen: A Thrilling Dive into the World of Curses Jujutsu Kaisen, created by Gege Akutami, is a gripping anime series that immerses viewers in a dark and exhilarating world where curses and sorcery are real threats. The story begins with Yuji Itadori, an exceptionally strong but otherwise ordinary high school student who inadvertently becomes [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<h6 class="wp-block-heading">Jujutsu Kaisen: A Thrilling Dive into the World of Curses</h6>
+
+
+
+<p><strong>Jujutsu Kaisen</strong>, created by Gege Akutami, is a gripping anime series that immerses viewers in a dark and exhilarating world where curses and sorcery are real threats. The story begins with Yuji Itadori, an exceptionally strong but otherwise ordinary high school student who inadvertently becomes entangled in the world of Jujutsu Sorcery after consuming a powerful cursed object: the finger of Ryomen Sukuna, a fearsome Curse known as the &#8220;King of Curses.&#8221;</p>
+
+
+
+<p>When Yuji swallows the finger, he becomes the host for Sukuna, granting him immense power but also placing him in grave danger. To combat the rising threat of curses, Yuji is recruited into the Tokyo Metropolitan Jujutsu Technical School, an institution dedicated to training Jujutsu Sorcerers who exorcise curses and protect humanity. Here, Yuji is mentored by the enigmatic and incredibly skilled Satoru Gojo, and forms bonds with his new classmates—Megumi Fushiguro, a talented sorcerer with a unique ability to summon shikigami, and Nobara Kugisaki, a fierce and determined fighter who wields cursed tools.</p>
+
+
+
+<p>As Yuji trains to master his abilities, he and his friends confront a variety of malevolent curses that threaten the world. Each battle is not just a test of strength but also a chance to explore deeper themes of human nature, fear, and the struggle between good and evil. The anime delves into complex moral questions and character backstories, providing rich, emotional layers to the high-stakes action.</p>
+
+
+
+<p><strong>Jujutsu Kaisen</strong> is acclaimed for its innovative animation, which brings its intense fight scenes to life with stunning choreography and visual flair. The series also features a well-developed magic system that blends traditional Japanese folklore with modern storytelling. Its blend of supernatural horror, action-packed sequences, and poignant moments creates a unique and captivating experience.</p>
+
+
+
+<p>With its compelling characters, thought-provoking themes, and relentless action, <strong>Jujutsu Kaisen</strong> has quickly become a standout series in the anime landscape. Its popularity continues to grow, drawing new fans and keeping seasoned viewers eagerly invested in the ongoing battle against the darkness that threatens to engulf the world.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://aryanrathod21.github.io/Wordpress_deployment/jujutsu-kaisen/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

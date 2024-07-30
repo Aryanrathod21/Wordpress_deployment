@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>nagi &#8211; Animeview</title>
+	<atom:link href="https://aryanrathod21.github.io/Wordpress_deployment/tag/nagi/feed/" rel="self" type="application/rss+xml" />
+	<link>https://aryanrathod21.github.io/Wordpress_deployment</link>
+	<description>sharing Anime Blogs</description>
+	<lastBuildDate>Sun, 21 Jul 2024 09:29:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+
+<image>
+	<url>https://aryanrathod21.github.io/Wordpress_deployment/wp-content/uploads/2024/07/cropped-Screenshot-2024-01-02-211043-1-32x32.png</url>
+	<title>nagi &#8211; Animeview</title>
+	<link>https://aryanrathod21.github.io/Wordpress_deployment</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Blue Lock</title>
+		<link>https://aryanrathod21.github.io/Wordpress_deployment/blue-lock/</link>
+					<comments>https://aryanrathod21.github.io/Wordpress_deployment/blue-lock/#respond</comments>
+		
+		<dc:creator><![CDATA[aryan]]></dc:creator>
+		<pubDate>Fri, 19 Jul 2024 18:37:56 +0000</pubDate>
+				<category><![CDATA[Sport Anime]]></category>
+		<category><![CDATA[barou]]></category>
+		<category><![CDATA[isagi]]></category>
+		<category><![CDATA[nagi]]></category>
+		<guid isPermaLink="false">https://aryanrathod21.github.io/Wordpress_deployment/?p=94</guid>
+
+					<description><![CDATA[Blue Lock: The Ultimate Battle for Soccer Supremacy Blue Lock, created by Muneyuki Kaneshiro and illustrated by Yusuke Nomura, is a high-octane anime series that redefines the competitive spirit of soccer. The story follows Yoichi Isagi, a talented but struggling high school soccer player who gets an unexpected opportunity to join a revolutionary training program [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<h6 class="wp-block-heading">Blue Lock: The Ultimate Battle for Soccer Supremacy</h6>
+
+
+
+<p><strong>Blue Lock</strong>, created by Muneyuki Kaneshiro and illustrated by Yusuke Nomura, is a high-octane anime series that redefines the competitive spirit of soccer. The story follows Yoichi Isagi, a talented but struggling high school soccer player who gets an unexpected opportunity to join a revolutionary training program designed to identify Japan&#8217;s best striker.</p>
+
+
+
+<p>The Blue Lock program, spearheaded by the enigmatic coach Ego Jinpachi, aims to create a world-class striker who will lead Japan to victory on the global stage. To achieve this, Blue Lock gathers 300 of the nation&#8217;s top high school forwards and places them in an intense, high-stakes competition. The players must prove their worth through grueling challenges and matches, where only the best will advance and the rest will be eliminated.</p>
+
+
+
+<p>Isagi, who dreams of becoming the ultimate striker, finds himself thrust into a fiercely competitive environment where individual skill and teamwork are put to the ultimate test. Throughout the series, he faces off against other top talents, each with their own unique abilities and ambitions. The psychological and physical challenges push players to their limits, revealing their true potential and driving them to surpass their previous boundaries.</p>
+
+
+
+<p><strong>Blue Lock</strong> stands out for its intense focus on the psychological aspects of sports, emphasizing the mental and strategic challenges faced by athletes. The series combines exhilarating soccer action with deep character development, exploring themes of ambition, self-discovery, and the relentless pursuit of greatness.</p>
+
+
+
+<p>With its gripping narrative and dynamic animation, <strong>Blue Lock</strong> captures the excitement of soccer and the personal struggles of its characters, making it a must-watch for fans of sports anime and anyone interested in a fresh take on competitive sports.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://aryanrathod21.github.io/Wordpress_deployment/blue-lock/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
